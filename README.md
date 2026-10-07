@@ -34,3 +34,7 @@ This is a commercial product — the workbooks are delivered instantly after pur
 - 🏬 [Digital Toolkit Store](https://www.getly.store/store/quoteguard-mtg2lwr7)
 
 Commercial license: use it for your own business or your clients' businesses.
+
+## Contact
+- Telegram: https://t.me/Digitaltoolkitstore
+- Email: poodepoo@gmail.com
