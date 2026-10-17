@@ -1,40 +1,65 @@
-# Small Business Finance Dashboard — Bilingual Excel Toolkit (EN + AR)
+# Small Business Finance Dashboard — Bilingual Excel Toolkit (EN + AR) — v2.0
 
-![cover](cover.png)
+**$24 one-time. Commercial license.**
 
-Know your numbers at a glance. A ready-to-use Excel finance system for freelancers and small businesses — revenue, expenses, net profit, and unpaid invoices on one live dashboard, in English or Arabic (RTL).
+Run your small business's money from one Excel workbook. Track sales,
+expenses, and invoices — in English or Arabic (RTL) — with a live dashboard
+showing Total Revenue, Total Expenses, Net Profit, and Unpaid Invoices,
+plus monthly and category tables with native Excel charts.
 
-## What's inside
+## What it is
 
-Two workbooks (English + Arabic RTL), 5 sheets each:
+Two workbooks (English + Arabic RTL), each with 6 sheets: HELP, Setup,
+Dashboard, Sales, Expenses, Invoices. Plus docs (EN + AR): Quick-Start
+Guide, Worked Example, FAQ, Limits, Month-End Checklist.
 
-| Sheet | What it does |
-|---|---|
-| Setup | Business info, currency, categories |
-| Dashboard | Revenue, expenses, net profit, unpaid invoices + monthly revenue-vs-expenses chart + expenses-by-category chart |
-| Sales | Up to 1,000 sales rows with auto totals |
-| Invoices | Invoice numbering with paid/unpaid highlighting |
-| Expenses | Expense log with category dropdowns |
+- **Live dashboard**: 4 KPIs update the moment you type
+- **Monthly table**: Revenue vs Expenses, Jan–Dec, with a bar chart
+- **Category table**: Expenses by Category, with a pie chart
+- **Sales log**: Total automatic (Qty × Unit Price), 1,000 rows
+- **Expenses log**: category dropdowns, 1,000 rows
+- **Invoices log**: Invoice # automatic (INV-001…), Paid/Unpaid status with
+  highlighting, 1,000 rows
+- **Sample data included** — FICTIONAL business, clearly labeled — see it
+  working instantly, then replace with yours
+- **No macros, no add-ins** — Microsoft Excel (desktop & web)
 
-Sample data included — see it working in 60 seconds, then replace with yours.
+## Free sample + demo video
 
-## Why it beats the apps
+- **Free sample:** sheet map, FICTIONAL sample-business Dashboard numbers,
+  first 3 steps. https://github.com/fexo9/small-business-finance-dashboard/blob/main/FREE-SAMPLE-Finance-Dashboard.md
+- **Demo video:** 72-second walkthrough of the real files. https://youtu.be/WWo6aVyQrhs
 
-- **One-time $24** — not $99/year like the budgeting apps
-- No subscriptions — your data stays yours
-- **Arabic RTL version included**
-- No macros, no add-ins — works in Microsoft Excel (desktop & web)
+## What it does NOT do
 
-## Get it
+- Does NOT produce tax reports or file taxes.
+- Does NOT import bank transactions or scan receipts.
+- Does NOT run payroll or track inventory.
+- Does NOT handle multiple currencies (one currency per file).
+- Does NOT break profit down by client or product beyond the Category
+  column.
+- Does NOT predict the future.
+- Does NOT sync between the EN and AR workbooks (separate copies — pick
+  one).
+- Does NOT guarantee profit, sales, or any business outcome.
 
-This is a commercial product — the workbooks are delivered instantly after purchase:
+## Buy
 
-- 🛒 [Buy on SellApp — $24 (USDT)](https://digitaltoolkitstore.sell.app/product/small-business-finance-dashboard-bilingual-excel-toolkit-en-ar)
-- 🛒 [Buy on Getly — $24](https://www.getly.store/store/quoteguard-mtg2lwr7)
-- 🏬 [Digital Toolkit Store](https://www.getly.store/store/quoteguard-mtg2lwr7)
+- **Getly:** https://www.getly.store/product/small-business-finance-dashboard-bilingual-excel-toolkit-en-ar
+- **SellApp:** https://digitaltoolkitstore.sell.app/product/small-business-finance-dashboard-bilingual-excel-toolkit-en-ar
 
-Commercial license: use it for your own business or your clients' businesses.
+$24 one-time, Commercial license. Instant download.
+
+## Version history
+
+- v1.0 (2026-10-05): 5 sheets per workbook, README, cover, listing notes.
+  6 files.
+- v2.0 (2026-10-17): HELP sheet in both workbooks (formulas unchanged),
+  quick-start guides EN+AR, worked examples EN+AR, FAQs EN+AR, limits
+  notes EN+AR, month-end checklists EN+AR, inventory. 15 files. Price
+  unchanged at $24.
 
 ## Contact
+
 - Telegram: https://t.me/Digitaltoolkitstore
 - Email: poodepoo@gmail.com
