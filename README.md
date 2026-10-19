@@ -28,7 +28,7 @@ Guide, Worked Example, FAQ, Limits, Month-End Checklist.
 
 - **Free sample:** sheet map, FICTIONAL sample-business Dashboard numbers,
   first 3 steps. https://github.com/fexo9/small-business-finance-dashboard/blob/main/FREE-SAMPLE-Finance-Dashboard.md
-- **Demo video:** 72-second walkthrough of the real files. https://youtu.be/WWo6aVyQrhs
+- **Demo video:** 72-second walkthrough of the real files. https://www.youtube.com/watch?v=a0WDTn4M5Pg
 
 ## What it does NOT do
 
