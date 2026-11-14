@@ -46,10 +46,3 @@ No tax reports or filing. No bank import, receipt scanning, payroll,
 inventory, or multi-currency. No profit breakdown by client or product
 beyond the Category column. No predictions. Full list in the product's
 limits notes.
-
-## Buy
-
-- **Getly:** [GETLY-URL — parent to fill with the verified live product URL]
-- **SellApp:** [SELLAPP-URL — parent to fill with the verified live product URL]
-
-$24 one-time, Commercial license. Instant download.
